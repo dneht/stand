@@ -73,7 +73,7 @@
         <fastjson.version>1.2.49</fastjson.version>
         <xstream.version>1.4.17</xstream.version>
         <protobuf.version>3.6.1</protobuf.version>
-        <tink.version>1.2.0</tink.version>
+        <tink.version>1.5.0</tink.version>
         <snappy.version>1.1.7.2</snappy.version>
         <kryo.version>5.0.0-RC1</kryo.version>
         <jwt.version>0.7.0</jwt.version>

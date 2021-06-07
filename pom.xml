@@ -95,7 +95,7 @@
         <maven-gpg-plugin>1.6</maven-gpg-plugin>
         <maven-findbugs-plugin>3.0.3</maven-findbugs-plugin>
         <maven-cobertura-plugin>2.7</maven-cobertura-plugin>
-        <maven-cobertura-logback>1.1.7</maven-cobertura-logback>
+        <maven-cobertura-logback>1.2.0</maven-cobertura-logback>
         <maven-assembly-plugin>2.6</maven-assembly-plugin>
         <jib-maven-plugin>1.0.1</jib-maven-plugin>
     </properties>
